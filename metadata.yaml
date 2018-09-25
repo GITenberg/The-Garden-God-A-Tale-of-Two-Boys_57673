@@ -1,11 +1,16 @@
 _repo: The-Garden-God-A-Tale-of-Two-Boys_57673
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57673-h/images/cover.jpg
 creator:
   author:
     agent_name: Reid, Forrest
     gutenberg_agent_id: '49537'
     url: http://www.gutenberg.org/2009/agents/49537
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57673#The-Garden-God-A-Tale-of-Two-Boys
 gutenberg_issued: '2018-08-12'
 gutenberg_type: Text
 identifiers:
